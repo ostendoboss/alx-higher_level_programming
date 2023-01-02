@@ -4,9 +4,17 @@
 
 class Rectangle:
     """ inidialize with the width and height with value checks
+<<<<<<< HEAD
     Args:
         width: how phat dis 4polygon gon be
         height: how tall dis box is
+=======
+
+    Args:
+        width: how phat dis 4polygon gon be
+        height: how tall dis box is
+
+>>>>>>> 9144da389b58c0d1ceccf414e7fdf2ef549587bc
     Return: nonezo
     """
 
